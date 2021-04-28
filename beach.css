@@ -1,0 +1,88 @@
+body{
+    background-image: url('beach.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    position: relative;
+}
+h1{
+    text-align: center;  
+    position: relative;
+    top: 60px;
+    
+}
+
+a{
+   text-decoration: none;
+   padding: 10px;
+   margin: 10px;
+   font-size: 20px;
+   background-color: coral;
+   color: cornsilk;
+   position: relative;
+   top: 80px;
+   left: 45%;
+   border:1px solid coral;
+   border-radius: 10px;
+}
+
+a:hover{
+     background-color: darkgoldenrod;
+}
+
+
+p{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top: 65px;
+    color: rgb(94, 17, 17);
+}
+
+#div1{
+    background-color: brown;
+    color: wheat;
+    transform:translateY(230px);
+    font-size: 30px;
+    width: 100%;
+    padding: 10px;
+}
+
+#div2{
+    background-color:white;
+    color:burlywood;
+    transform:translateY(246px);
+    font-size: 30px;
+    width: 100%;
+}
+
+#div3{
+    width: 448px;
+    transform: translateY(250px);
+    background-color: brown;
+    color: wheat;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+}
+  
+
+#div5{
+    width: 448px;
+    transform: translateY(250px);
+    background-color: brown;
+    color: wheat;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+}
+
+#div4{
+    width: 448px;
+    transform: translateY(250px);
+    background-color: white;
+    color: burlywood;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+}
